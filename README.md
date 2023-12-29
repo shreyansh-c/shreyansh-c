@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/R6rpwMg/b.png)
+[![MasterHead](https://www.imagehost.at/image/xHzT5)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shreyansh Chaudhary</h1>
 <h3 align="center">A Full-Stack Web and App Developer</h3>
 
