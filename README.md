@@ -1,4 +1,4 @@
-[![MasterHead](https://www.imagehost.at/image/xHzT5)](https://rishavchanda.io)
+[![MasterHead](https://github.com/shreyansh-c/shreyansh-c/blob/main/Githubbanner.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shreyansh Chaudhary</h1>
 <h3 align="center">A Full-Stack Web and App Developer</h3>
 
