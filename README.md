@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/ykBng1n/Githubbanner.png)
+![MasterHead](https://i.ibb.co/pzDY2yJ/banner.png)
 <h1 align="center">Hi 👋, I'm Shreyansh Chaudhary</h1>
 <h3 align="center">A Full-Stack Web and App Developer</h3>
 
